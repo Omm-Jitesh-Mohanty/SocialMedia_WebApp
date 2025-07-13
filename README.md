@@ -12,7 +12,7 @@ This is a simple social media web based application which can be scale to a beau
  
 5.You can delete any post anytime.You can make unfriend anyone at anytime.By clicking on logout you can logout of your profile and redirect to main/index page.
 
-<h1>Features are going to be add in future</h1>
+<h1>Features are going to be add in future :-</h1>
 1.I will make it to work with images which is necessary for post and profile picture.
 
 2.I will collect more data about user so it will good to suggest user post and also his/her bio can look more attractive.
