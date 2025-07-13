@@ -1,5 +1,5 @@
 # SocialMedia_WebApp
-This is a simple social media web based application which can be scale to a beautiful social media for connection also can solve some problems.
+This is a simple social media web based application which can be scale to a beautiful social media for connection also can solve some problems.To do this application I have used html,css and javascript for frontend and Django for backend.
 
 <h1>Currently features of the app are :-</h1>
 1. New use can simply register by giving their name/user_id 🆔 , location and password.
