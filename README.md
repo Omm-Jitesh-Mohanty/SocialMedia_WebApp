@@ -3,6 +3,7 @@ This is a simple social media web based application which can be scale to a beau
 
 <h1>Currently features of the app are :-</h1>
  1. New use can simply register by giving their name/user_id 🆔 , location and password.
+ 
  2. After registration user 👤 can login by giving his/her name/user_id 🆔 and password.
     
  3. After login user will redirect to home page. In home page he/she can see posts and details/messages of friends(friends who send messages for connection, suggestions to make your new friend, friend list).
