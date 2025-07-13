@@ -3,7 +3,8 @@ This is a simple social media web based application which can be scale to a beau
 
 <h1>Currently features of the app are :-</h1>
 1. New use can simply register by giving their name/user_id 🆔 , location and password.
-2. After registration user 👤 can login by giving his/her name/user_id 🆔 and password.
+
+ 2. After registration user 👤 can login by giving his/her name/user_id 🆔 and password.
 3. After login user will redirect to home page. In home page he/she can see posts and details/messages of friends(friends who send messages for connection, suggestions to make your new friend, friend list).
 4.On top right side you will able to see 3 options which are home, profile and logout.By clicking on Profile you will able to see your profile details like your name, address, profile_picture and status etc.You will also see your posts and update profile option where you can update your profile at anytime,
 5.You can delete any post anytime.You can make unfriend anyone at anytime.By clicking on logout you can logout of your profile and redirect to main/index page.
