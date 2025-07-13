@@ -16,7 +16,6 @@ This is a simple social media web based application which can be scale to a beau
  1.I will make it to work with images which is necessary for post and profile picture.
 
  2.I will collect more data about user so it will good to suggest user post and also his/her bio can look more attractive.
-
  3.I will make it's networking so that people can be connect to each other easily.
 
 So Currently I am working for it's more improvements,so plesae suggest me and help me to convert my project into one of the good socialmedia web app and let's try to solve some problem of society which can be solve by this social media web app.
